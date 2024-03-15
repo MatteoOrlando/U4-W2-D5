@@ -1,10 +1,10 @@
-package Matteo_Orlando;
+package Main_Application;
 
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-class ApplicationTest {
+class MainCatalogoTest {
 
     @Test
     void shouldAnswerWithTrue() {
